@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+
+* {
+  font-family: "roboto";
+}
+
+nav li {
+  display: inline;
+  padding: 15px;
+}
+
+nav a {
+  color: rgb(104, 18, 183);
+  text-decoration: none;
+  font-weight: bold;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(185, 77, 225);
+}
+.bio {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(236, 98, 121);
+}
+h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(201, 161, 112);
+}
+footer p {
+  color: rgb(230, 6, 39);
+}
+
+.bouton {
+  text-decoration: none;
+  color: white;
+  border-radius: 10px;
+  background: pink;
+}
+h3 {
+  color: rgb(46, 177, 177);
+}
